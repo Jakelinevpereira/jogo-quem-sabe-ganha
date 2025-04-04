@@ -1,0 +1,163 @@
+[
+    {
+      "pergunta": "Qual a capital do Brasil?",
+      "respostas": [
+        { "opcao": "Brasília", "correto": true },
+        { "opcao": "Rio de Janeiro", "correto": false },
+        { "opcao": "Salvador", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Em que ano o Brasil foi Pentacampeão no Futebol?",
+      "respostas": [
+        { "opcao": "1994", "correto": false },
+        { "opcao": "1998", "correto": false },
+        { "opcao": "2002", "correto": true }
+      ]
+    },
+    {
+      "pergunta": "Qual é o maior planeta do Sistema Solar?",
+      "respostas": [
+        { "opcao": "Terra", "correto": false },
+        { "opcao": "Júpiter", "correto": true },
+        { "opcao": "Marte", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Quem foi o primeiro presidente do Brasil República?",
+      "respostas": [
+        { "opcao": "Getúlio Vargas", "correto": false },
+        { "opcao": "Juscelino Kubitschek", "correto": false },
+        { "opcao": "Marechal Deodoro da Fonseca", "correto": true }
+      ]
+    },
+    {
+        "pergunta": "Quem pintou o quadro a Monalisa?",
+        "respostas": [
+          { "opcao": "Leonardo Da Vince", "correto": true },
+          { "opcao": "Michelangelo", "correto": false },
+          { "opcao": "Picasso", "correto": false }
+        ]
+    },
+    {
+        "pergunta": "Qual o maior oceano do planeta Terra?",
+        "respostas": [
+          { "opcao": "Atlântico", "correto": false },
+          { "opcao": "Índico", "correto": false },
+          { "opcao": "Pacífico", "correto": true }
+        ]
+    },
+    {
+        "pergunta": "Qual é a fórmula química da água?",
+        "respostas": [
+          { "opcao": "CO2", "correto": false },
+          { "opcao": "H2O", "correto": true },
+          { "opcao": "O2", "correto": false }
+        ]
+      },
+      {
+        "pergunta": "Qual animal é conhecido como 'O Rei da Selva'?",
+        "respostas": [
+          { "opcao": "Tigre", "correto": false },
+          { "opcao": "Onça", "correto": false },
+          { "opcao": "Leão", "correto": true }
+        ]
+      },
+      {
+        "pergunta": "Quantos anéis tem o logotipo das Olimpíadas?",
+        "respostas": [
+          { "opcao": "4", "correto": false },
+          { "opcao": "5", "correto": false },
+          { "opcao": "6", "correto": true }
+        ]
+      },
+      {
+        "pergunta": "Qual o rio mais extenso do mundo?",
+        "respostas": [
+          { "opcao": "Nilo", "correto": true },
+          { "opcao": "Mississipe", "correto": false },
+          { "opcao": "Amazonas", "correto": false }
+        ]
+      },
+    {
+      "pergunta": "Quantos ossos tem o corpo humano adulto?",
+      "respostas": [
+        { "opcao": "206", "correto": true },
+        { "opcao": "215", "correto": false },
+        { "opcao": "198", "correto": false }
+      ]
+    },
+    {
+        "pergunta": "Qual é o maior país do mundo em extensão territorial?",
+        "respostas": [
+          { "opcao": "China", "correto": false },
+          { "opcao": "Canadá", "correto": false },
+          { "opcao": "Rússia", "correto": true }
+        ]
+    },
+    {
+        "pergunta": "Qual é o gás mais abundante na atmosfera da Terra?",
+        "respostas": [
+          { "opcao": "Oxigênio", "correto": false },
+          { "opcao": "Nitrogênio", "correto": false },
+          { "opcao": "Dióxido de carbono", "correto": false }
+        ]
+    },
+    {
+        "pergunta": "Em que ano ocorreu a Independência do Brasil?",
+        "respostas": [
+          { "opcao": "1855", "correto": false },
+          { "opcao": "1822", "correto": true },
+          { "opcao": "1889", "correto": false }
+        ]
+    },
+    {
+        "pergunta": "Qual o maior mamífero do mundo?",
+        "respostas": [
+          { "opcao": "Elefante-africano", "correto": false },
+          { "opcao": "Orca", "correto": false },
+          { "opcao": "Baleia-azul", "correto": true }
+        ]
+    },
+    {
+        "pergunta": "Quanto é 10 x 10?",
+        "respostas": [
+          { "opcao": "10", "correto": false },
+          { "opcao": "100", "correto": true },
+          { "opcao": "1000", "correto": false }
+        ]
+    },
+    {
+        "pergunta": "Qual páis venceu a primeira Copa do Mundo de futebol?",
+        "respostas": [
+          { "opcao": "Brasil", "correto": false },
+          { "opcao": "Alemanha", "correto": false },
+          { "opcao": "Uruguai", "correto": true }
+        ]
+    },
+    {
+        "pergunta": "Quem tem mais títulos de Grand Slam no tênis masculino?",
+        "respostas": [
+          { "opcao": "BrasRoger Federer", "correto": false },
+          { "opcao": "Novak Djokovic", "correto": true },
+          { "opcao": "Rafael Nadal", "correto": false }
+        ]
+    },
+    {
+        "pergunta": "Em quel país foi sediadao os primeiros Jogos Olímpicos da Era Moderna?",
+        "respostas": [
+          { "opcao": "Inglaterra", "correto": false },
+          { "opcao": "França", "correto": false },
+          { "opcao": "Grécia", "correto": true }
+        ]
+    },
+    {
+        "pergunta": "Qual filme ganhou o Oscar de melhor filme estrangeiro em 2025?",
+        "respostas": [
+          { "opcao": "Ainda Estou Aqui", "correto": true },
+          { "opcao": "Emília Perez", "correto": false },
+          { "opcao": "Flow", "correto": false }
+        ]
+    }
+  ]
+  
