@@ -138,7 +138,7 @@
     {
         "pergunta": "Quem tem mais títulos de Grand Slam no tênis masculino?",
         "respostas": [
-          { "opcao": "BrasRoger Federer", "correto": false },
+          { "opcao": "Roger Federer", "correto": false },
           { "opcao": "Novak Djokovic", "correto": true },
           { "opcao": "Rafael Nadal", "correto": false }
         ]
