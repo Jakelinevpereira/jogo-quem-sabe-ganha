@@ -95,8 +95,8 @@ p {
 }
 
 .botao-resposta.errada {
-  background-color: #f44336; /* vermelho */
-  color: white;
+  background-color: #f44336 !important; /* vermelho */
+  color: white !important;
 }
 
 .botao-resposta:hover {
