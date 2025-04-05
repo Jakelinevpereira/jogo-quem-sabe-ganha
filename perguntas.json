@@ -67,8 +67,8 @@
         "pergunta": "Quantos anéis tem o logotipo das Olimpíadas?",
         "respostas": [
           { "opcao": "4", "correto": false },
-          { "opcao": "5", "correto": false },
-          { "opcao": "6", "correto": true }
+          { "opcao": "5", "correto": true },
+          { "opcao": "6", "correto": false }
         ]
       },
       {
